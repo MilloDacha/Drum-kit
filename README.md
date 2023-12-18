@@ -6,3 +6,6 @@ It is an interactive webpage consisting of various drumkit instruments on clicki
 
 # Frontend tools
 HTML, CSS, Javascript
+
+# Screenshots of running project
+![Screenshot 2023-12-18 164047](https://github.com/MilloDacha/Drum-kit/assets/74770451/10843fba-0c97-4a14-998b-181bb55048a0)
